@@ -1,0 +1,31 @@
+a:hover {
+  background-color: red;
+}
+
+.master:hover {
+  background-color: red;
+}
+
+.p:first-child {
+  background-color: red;
+}
+
+input:focus {
+  background-color: red;
+}
+
+.intro::first-line {
+  background-color: red;
+}
+
+.paragraph::first-letter {
+  background-color: red;
+}
+
+.paragraph_VII::before {
+  content: url('images/smiley.gif');
+}
+
+.paragraph_VII::after {
+  content: url('images/smiley.gif');
+}
